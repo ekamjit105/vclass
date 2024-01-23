@@ -1,0 +1,10 @@
+{
+    "uid":"dashmeshpagrian@yahoo.com",
+    "password":"Ekamjit@123",
+    "uname":"Gurtej Singh",
+    "classes":{
+        "created":["c1","c2"],
+        "joined":["j1","j2","j3"]
+    },
+    "submitted":["s1","s2","s3"]
+}
